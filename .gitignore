@@ -1,0 +1,4 @@
+node_modules/
+gschemas.compiled
+*.pot
+qubes-tray-widgets@a.pebl.cc.shell-extension.zip

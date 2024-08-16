@@ -1,0 +1,26 @@
+.qubes-tray-widgets-indicator {
+}
+
+.qubes-tray-widgets-menu {
+  min-width: auto;
+}
+
+.qubes-tray-widgets-menu .popup-menu-ornament {
+  width: 0;
+}
+
+.qubes-tray-widgets-menu .panel-button {
+  width: 20px;
+  height: 20px;
+  padding: 8px;
+  border-radius: 6px;
+  color: white;
+  transition-property: background-color;
+  transition-duration: 0.1s;
+  transition-timing-function: linear;
+}
+
+.qubes-tray-widgets-menu .panel-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+

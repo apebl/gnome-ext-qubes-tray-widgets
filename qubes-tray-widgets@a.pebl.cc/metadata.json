@@ -1,0 +1,9 @@
+{
+  "name": "Qubes Tray Widgets",
+  "description": "Tray widgets for Qubes OS",
+  "uuid": "qubes-tray-widgets@a.pebl.cc",
+  "version-name": "0.1.0",
+  "gettext-domain": "qubes-tray-widgets@a.pebl.cc",
+  "settings-schema": "org.gnome.shell.extensions.qubes-tray-widgets",
+  "shell-version": ["43"]
+}

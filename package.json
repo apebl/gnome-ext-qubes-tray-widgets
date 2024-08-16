@@ -1,0 +1,11 @@
+{
+  "name": "gnome-ext-qubes-tray-widgets",
+  "private": true,
+  "devDependencies": {
+    "@biomejs/biome": "1.8.3"
+  },
+  "scripts": {
+    "check": "npx @biomejs/biome check .",
+    "check:fix": "npx @biomejs/biome check --write ."
+  }
+}
