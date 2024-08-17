@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema id="org.gnome.shell.extensions.qubes-tray-widgets"
+            path="/org/gnome/shell/extensions/qubes-tray-widgets/">
+        <key name="netvm" type="s">
+            <default>'sys-net'</default>
+            <summary>The network VM name used to open the network menu</summary>
+        </key>
+        <key name="netvm-command" type="as">
+            <default>[]</default>
+            <summary>Command ARGV used to open the network menu (empty = auto)</summary>
+        </key>
+    </schema>
+</schemalist>
+
